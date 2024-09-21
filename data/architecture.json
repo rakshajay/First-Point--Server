@@ -1,0 +1,175 @@
+[
+    {
+        "id": "1",
+        "title": "Cogni-Craft",
+        "sub-title": "Master Thesis (Neuroscience, Architecture, AI)",
+        "main-image": "Thesis1.1",
+        "gallery": [
+            {
+                "id": "1.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "Thesis1"
+            },
+            {
+                "id": "1.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Thesis"
+            },
+            {
+                "id": "1.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Thesis2"
+            },
+            {
+                "id": "1.4",
+                "description": "Device used to build application",
+                "image": "Thesis5"
+            }
+        ],
+        "date": "Sep-2023",
+        "site-location": "-",
+        "site-area": "-",
+        "worked-with": "SCI-Arc",
+        "description": "This app, developed for my thesis at SCI-Arc, merges neuroscience and architectural design to enhance the shopping experience. Using EEG technology, it tracks customers' brainwaves and adapts the retail environment based on their emotional and cognitive states. By integrating AI algorithms, the store offers a dynamic, personalized experience that responds to individual moods and preferences. This technology shifts retail from a simple transaction to an interactive and engaging journey, tailored to each visitor's unique responses.",
+        "softwares": {
+            "concept": "Miro, Figma",
+            "rendering": "Unreal engine",
+            "drafting": "-",
+            "presentation": "Adobe Premier Pro, Photoshop, Illustrator",
+            "technology": "Stable diffusion, Chat-GPT API",
+            "device": "UltraCortex EEG device",
+            "coding-languages": "Python"
+        },
+        "video-thumbnail": "thesis4",
+        "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
+        "Category":["Architecture","Technology","AI"],
+        "Publications & Mentions":""
+    },
+    {
+        "id": "2",
+        "title": "Zoya",
+        "sub-title": "Retail design of Diamond Boutique-company project",
+        "main-image": "zoya (3).jpg",
+        "gallery": [
+            {
+                "id": "2.1",
+                "description": "Facade design",
+                "image": "zoya (4).jpg"
+            },
+            {
+                "id": "2.3",
+                "description": "Diamond jewellery display wall units",
+                "image": "zoya (6).jpg"
+            },
+            {
+                "id": "2.4",
+                "description": "Atrium with circular furniture design",
+                "image": "zoya (1).jpg"
+            },
+            {
+                "id": "2.5",
+                "description": "Display podiums design",
+                "image": "zoya (3).jpg"
+            },
+            {
+                "id": "2.6",
+                "description": "Double height, Golden Rain Chandelier",
+                "image": "zoya (5).jpg"
+            }
+        ],
+        "date": "Dec-2019",
+        "site-location": "Bengaluru, India",
+        "site-area": "3,000 sq ft",
+        "worked-with": "Titan Corporates, IRSG team",
+        "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata. The design incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
+        "softwares": {
+            "concept": "Sketchup",
+            "rendering": "-",
+            "drafting": "AutoCAD, Revit-BIM",
+            "presentation": "Photoshop",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "video-thumbnail": "zoya (7).jpg",
+        "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
+        "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
+        "Publications & Mentions": "https://www.vogue.in/fashion/content/zoya-from-the-house-of-tata-launches-its-first-store-in-bengaluru"
+    },
+    {
+        "id": "3",
+        "title": "Augmented City",
+        "sub-title": "Production Urbanism Daegu as Circular City, SCI-Arc project",
+        "main-image": "Daegu (3).jpg",
+        "gallery": [
+            {
+                "id": "3.1",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (1).jpg"
+            },
+            {
+                "id": "3.3",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (1).png"
+            },
+            {
+                "id": "3.4",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (2).png"
+            },
+            {
+                "id": "3.5",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (3).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (4).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (5).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (6).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (7).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (8).jpg"
+            },
+            {
+                "id": "3.6",
+                "description": "Daegu city, urban interventions to futuristic infrastructure",
+                "image": "Daegu (9).jpg"
+            }
+        ],
+        "date": "Dec-2019",
+        "site-location": "Daegu, South Korea",
+        "site-area": "Full city",
+        "worked-with": "Soomeen Hahm, SCI-Arc team",
+        "description": "This project, conducted in collaboration with Soomeen Hahm's Studio @SCI-Arc, explores the concept of augmented cities and the impact of advanced technologies on urban life. The studio investigates the potential of AI and emerging innovations to reshape how we live, work, and interact within cities. Through creative, student-led explorations, the project examines 14 unique concepts, offering a collective vision for future urban spaces where technology and humanity coexist harmoniously. The detailed narratives and critical perspectives provide a glimpse into how these advancements will revolutionize cities like Daegu, blending history with cutting-edge technological progress.",
+        "softwares": {
+            "concept": "Rhino",
+            "rendering": "Rhino",
+            "drafting":"-",
+            "presentation": "Adobe Premier Pro, Photoshop, Illustrator",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "video-thumbnail": "Daegu (10).jpg",
+        "video":"-",
+        "Category":["Architecture","Computational-design","AI", "Urban design"],
+        "Publications & Mentions":"https://drive.google.com/file/d/1XU7wo2AmgvDPaRQ7pm8zkGG-knahuCJy/view"
+    }
+]
