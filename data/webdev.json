@@ -278,32 +278,32 @@
         "id": "6",
         "title": "Personal-Journal",
         "subTitle": "Hackathon project",
-        "mainImage": "",
+        "mainImage": "Coming-Soon.png",
         "gallery": [
             {
                 "id": "6.1",
                 "description": "-",
-                "image": ""
+                "image": "Loading-1.png"
             },
             {
                 "id": "6.2",
                 "description": "",
-                "image": ""
+                "image": "Loading-2.png"
             },
             {
                 "id": "6.3",
                 "description": "",
-                "image": ""
+                "image": "Loading-3.png"
             },
             {
                 "id": "6.4",
                 "description": "",
-                "image": ""
+                "image": "Loading-4.png"
             },
             {
                 "id": "6.5",
                 "description": "",
-                "image": ""
+                "image": "Loading-5.png"
             }
         ],
         "date": "",
@@ -330,22 +330,22 @@
         "id": "7",
         "title": "First-Point",
         "subTitle": "Capstone-project",
-        "mainImage": "",
+        "mainImage": "Coming-Soon.png",
         "gallery": [
             {
                 "id": "7.1",
                 "description": "-",
-                "image": ""
+                "image": "Loading-1.png"
             },
             {
                 "id": "7.2",
                 "description": "",
-                "image": ""
+                "image": "Loading-2.png"
             },
             {
                 "id": "7.3",
                 "description": "",
-                "image": ""
+                "image": "Loading-3.png"
             },
             {
                 "id": "7.4",
@@ -355,7 +355,7 @@
             {
                 "id": "7.5",
                 "description": "",
-                "image": ""
+                "image": "Loading-4.png"
             }
         ],
         "date": "",
@@ -382,32 +382,32 @@
         "id": "8",
         "title": "TELL-US more",
         "subTitle": "Industry Challenge",
-        "mainImage": "",
+        "mainImage": "Coming-Soon.png",
         "gallery": [
             {
                 "id": "8.1",
                 "description": "-",
-                "image": ""
+                "image": "Loading-1.png"
             },
             {
                 "id": "8.2",
                 "description": "",
-                "image": ""
+                "image": "Loading-2.png"
             },
             {
                 "id": "8.3",
                 "description": "",
-                "image": ""
+                "image": "Loading-3.png"
             },
             {
                 "id": "8.4",
                 "description": "",
-                "image": ""
+                "image": "Loading-4.png"
             },
             {
                 "id": "8.5",
                 "description": "",
-                "image": ""
+                "image": "Loading-5.png"
             }
         ],
         "date": "",
