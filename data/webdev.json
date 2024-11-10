@@ -223,7 +223,7 @@
         "link":"https://github.com/rakshajay/InStock-client"
     },
     {
-        "id": "6",
+        "id": "5",
         "title": "Purr-fect Hunt",
         "subTitle": "Hackathon project",
         "mainImage": "Cat-6.png",
@@ -244,7 +244,7 @@
                 "image": "Cat-3.png"
             },
             {
-                "id": "15.4",
+                "id": "5.4",
                 "description": "",
                 "image": "Cat-4.png"
             },
@@ -273,5 +273,161 @@
         "Category":["Web Development","Technology","Coding"],
         "Publications & Mentions":"",
         "link":"https://github.com/rakshajay/brainstation_hackathon"
+    },
+    {
+        "id": "6",
+        "title": "Personal-Journal",
+        "subTitle": "Hackathon project",
+        "mainImage": "",
+        "gallery": [
+            {
+                "id": "6.1",
+                "description": "-",
+                "image": ""
+            },
+            {
+                "id": "6.2",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "6.3",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "6.4",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "6.5",
+                "description": "",
+                "image": ""
+            }
+        ],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "Building backedn for this project. Here is the GitHub link to this project [Personal Journal](https://github.com/rakshajay/BrainStation-Hackathon-2)",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/BrainStation-Hackathon-2"
+    },
+    {
+        "id": "7",
+        "title": "First-Point",
+        "subTitle": "Capstone-project",
+        "mainImage": "",
+        "gallery": [
+            {
+                "id": "7.1",
+                "description": "-",
+                "image": ""
+            },
+            {
+                "id": "7.2",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "7.3",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "7.4",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "7.5",
+                "description": "",
+                "image": ""
+            }
+        ],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "Building backedn for this project. Here is the GitHub link to this project [First-Point-Client-Side](https://github.com/rakshajay/First-Point)",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/First-Point"
+    },
+    {
+        "id": "8",
+        "title": "TELL-US more",
+        "subTitle": "Industry Challenge",
+        "mainImage": "",
+        "gallery": [
+            {
+                "id": "8.1",
+                "description": "-",
+                "image": ""
+            },
+            {
+                "id": "8.2",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "8.3",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "8.4",
+                "description": "",
+                "image": ""
+            },
+            {
+                "id": "8.5",
+                "description": "",
+                "image": ""
+            }
+        ],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "Building backedn for this project. Here is the GitHub link to this project [First-Point-Client-Side](https://github.com/rakshajay/TellUsMore-Industry-Challenge)",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/TellUsMore-Industry-Challenge"
     }
 ]
