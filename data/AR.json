@@ -2,8 +2,8 @@
     {
         "id": "1",
         "title": "Interactive AR Story book",
-        "sub-title": "An Unity based project",
-        "main-image": "ARapp(5).jpg",
+        "subTitle": "An Unity based project",
+        "mainImage": "ARapp(5).jpg",
         "gallery": [
             {
                 "id": "1.1",
@@ -26,13 +26,13 @@
                 "image": "ARapp(4).jpg"
             },
             {
-                "id": "1.4",
+                "id": "1.5",
                 "description": "Short Video of animation",
                 "image": "ARapp(6).jpg"
             }
         ],
         "date": "April-2023",
-        "worked-with": "SCI-Arc",
+        "workedWith": "SCI-Arc",
         "description": "This project reimagines Sam McBratney's children's book, Guess How Much I Love You, as an immersive augmented reality experience. Developed in collaboration with Golara Solrani Sedeh, Luise Kaut, Prachi Choudhary, and Yewoinhareg Geberemariam during Advanced Architectural Studies I at SCI-Arc, it uses Unity to animate the book's characters in 3D. By linking physical books with interactive digital content, the project transforms traditional reading into an engaging, educational journey for children.",
         "softwares": {
             "concept": "Miro",
@@ -41,15 +41,15 @@
             "technology": "Augmented reality",
             "coding-languages": "Unity C#"
         },
-        "video-thumbnail": "ARapp(5).jpg",
+        "videoThumbnail": "ARapp(5).jpg",
         "video":"https://www.youtube.com/watch?v=hfeOa998XkY&t=1s",
         "Category":["AR","Technology"]
     },
     {
         "id": "2",
         "title": "Quest AR appHome styling",
-        "sub-title": "An AR app to choose right interior design",
-        "main-image": "XR4.png",
+        "subTitle": "An AR app to choose right interior design",
+        "mainImage": "XR4.png",
         "gallery": [
             {
                 "id": "2.1",
@@ -78,7 +78,7 @@
             }
         ],
         "date": "Nov-2023",
-        "worked-with": "XRTerra",
+        "workedWith": "XRTerra",
         "description": "Quest AR is a home styling app that enables users to explore and personalize interior spaces. The app offers three distinct interior design styles, each representing a unique aesthetic. Users can further customize their spaces by choosing from twelve different wallpaper options. This interactive experience allows users to experiment with various design combinations, helping them visualize and create their ideal home environment.",
         "softwares": {
             "concept": "Miro",
@@ -87,7 +87,7 @@
             "technology": "Augmented reality",
             "coding-languages": "Unity C#"
         },
-        "video-thumbnail": "XR4.png",
+        "videoThumbnail": "XR4.png",
         "video":"https://www.youtube.com/watch?v=CuJDXkJ520k",
         "Category":["Architecture","Interior-design","AR","Technology"]
     }

@@ -2,34 +2,34 @@
     {
         "id": "1",
         "title": "Cogni-Craft",
-        "sub-title": "Master Thesis (Neuroscience, Architecture, AI)",
-        "main-image": "Thesis1.1",
+        "subTitle": "Master Thesis (Neuroscience, Architecture, AI)",
+        "mainImage": "Thesis1.1.jpg",
         "gallery": [
             {
                 "id": "1.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Thesis1"
+                "image": "Thesis1.jpg"
             },
             {
                 "id": "1.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Thesis"
+                "image": "Thesis.jpg"
             },
             {
                 "id": "1.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Thesis2"
+                "image": "Thesis2.jpg"
             },
             {
                 "id": "1.4",
                 "description": "Device used to build application",
-                "image": "Thesis5"
+                "image": "Thesis5.png"
             }
         ],
         "date": "Sep-2023",
-        "site-location": "-",
-        "site-area": "-",
-        "worked-with": "SCI-Arc",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "SCI-Arc",
         "description": "This app, developed for my thesis at SCI-Arc, merges neuroscience and architectural design to enhance the shopping experience. Using EEG technology, it tracks customers' brainwaves and adapts the retail environment based on their emotional and cognitive states. By integrating AI algorithms, the store offers a dynamic, personalized experience that responds to individual moods and preferences. This technology shifts retail from a simple transaction to an interactive and engaging journey, tailored to each visitor's unique responses.",
         "softwares": {
             "concept": "Miro, Figma",
@@ -40,16 +40,17 @@
             "device": "UltraCortex EEG device",
             "coding-languages": "Python"
         },
-        "video-thumbnail": "thesis4",
+        "videoThumbnail": "thesis4.jpg",
         "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
         "Category":["Architecture","Technology","AI"],
-        "Publications & Mentions":""
+        "Publications & Mentions":"",
+        "link":""
     },
     {
         "id": "2",
         "title": "Zoya",
-        "sub-title": "Retail design of Diamond Boutique-company project",
-        "main-image": "zoya (3).jpg",
+        "subTitle": "Retail design of Diamond Boutique-company project",
+        "mainImage": "zoya (3).jpg",
         "gallery": [
             {
                 "id": "2.1",
@@ -78,9 +79,9 @@
             }
         ],
         "date": "Dec-2019",
-        "site-location": "Bengaluru, India",
-        "site-area": "3,000 sq ft",
-        "worked-with": "Titan Corporates, IRSG team",
+        "siteLocation": "Bengaluru, India",
+        "siteArea": "3,000 sq ft",
+        "workedWith": "Titan Corporates, IRSG team",
         "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata. The design incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
         "softwares": {
             "concept": "Sketchup",
@@ -91,16 +92,17 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "video-thumbnail": "zoya (7).jpg",
+        "videoThumbnail": "zoya (7).jpg",
         "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
         "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
-        "Publications & Mentions": "https://www.vogue.in/fashion/content/zoya-from-the-house-of-tata-launches-its-first-store-in-bengaluru"
+        "Publications & Mentions": "https://www.vogue.in/fashion/content/zoya-from-the-house-of-tata-launches-its-first-store-in-bengaluru",
+        "link":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/"
     },
     {
         "id": "3",
         "title": "Augmented City",
-        "sub-title": "Production Urbanism Daegu as Circular City, SCI-Arc project",
-        "main-image": "Daegu (3).jpg",
+        "subTitle": "Production Urbanism Daegu as Circular City, SCI-Arc project",
+        "mainImage": "Daegu (3).jpg",
         "gallery": [
             {
                 "id": "3.1",
@@ -128,35 +130,35 @@
                 "image": "Daegu (4).jpg"
             },
             {
-                "id": "3.6",
+                "id": "3.7",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
                 "image": "Daegu (5).jpg"
             },
             {
-                "id": "3.6",
+                "id": "3.8",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
                 "image": "Daegu (6).jpg"
             },
             {
-                "id": "3.6",
+                "id": "3.9",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
                 "image": "Daegu (7).jpg"
             },
             {
-                "id": "3.6",
+                "id": "3.10",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
                 "image": "Daegu (8).jpg"
             },
             {
-                "id": "3.6",
+                "id": "3.11",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
                 "image": "Daegu (9).jpg"
             }
         ],
-        "date": "Dec-2019",
-        "site-location": "Daegu, South Korea",
-        "site-area": "Full city",
-        "worked-with": "Soomeen Hahm, SCI-Arc team",
+        "date": "Aug-2023",
+        "siteLocation": "Daegu, South Korea",
+        "siteArea": "Full city",
+        "workedWith": "Soomeen Hahm, SCI-Arc team",
         "description": "This project, conducted in collaboration with Soomeen Hahm's Studio @SCI-Arc, explores the concept of augmented cities and the impact of advanced technologies on urban life. The studio investigates the potential of AI and emerging innovations to reshape how we live, work, and interact within cities. Through creative, student-led explorations, the project examines 14 unique concepts, offering a collective vision for future urban spaces where technology and humanity coexist harmoniously. The detailed narratives and critical perspectives provide a glimpse into how these advancements will revolutionize cities like Daegu, blending history with cutting-edge technological progress.",
         "softwares": {
             "concept": "Rhino",
@@ -167,9 +169,218 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "video-thumbnail": "Daegu (10).jpg",
+        "videoThumbnail": "Daegu (10).jpg",
         "video":"-",
         "Category":["Architecture","Computational-design","AI", "Urban design"],
-        "Publications & Mentions":"https://drive.google.com/file/d/1XU7wo2AmgvDPaRQ7pm8zkGG-knahuCJy/view"
-    }
+        "Publications & Mentions":"https://drive.google.com/file/d/1XU7wo2AmgvDPaRQ7pm8zkGG-knahuCJy/view",
+        "link":"https://drive.google.com/file/d/1XU7wo2AmgvDPaRQ7pm8zkGG-knahuCJy/view"
+    },
+    {
+        "id": "4",
+        "title": "Tanishq",
+        "subTitle": "Retial Design of TATA's jewellery botiques",
+        "mainImage": "Tanishq-4.jpg",
+        "gallery": [
+            {
+                "id": "4.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "Tanishq-1.jpg"
+            },
+            {
+                "id": "4.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Tanishq-2.jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Tanishq-3.jpg"
+            },
+            {
+                "id": "4.4",
+                "description": "Device used to build application",
+                "image": "Tanishq-5.jpg"
+            },
+            {
+                "id": "4.4",
+                "description": "Device used to build application",
+                "image": "Tanishq-6.jpg"
+            },
+            {
+                "id": "4.4",
+                "description": "Device used to build application",
+                "image": "Tanishq-8.png"
+            },
+            {
+                "id": "4.4",
+                "description": "Device used to build application",
+                "image": "Tanishq-9.jpg"
+            }
+     ],
+        "date": "2019-2022",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "Titan Corporates, IRSG team",
+        "description":"Designed the retail spaces for Tanishq, India’s largest jewelry brand under TATA, focusing on creating customer-friendly environments that blend functionality and luxury. Traditional craftsmanship was integrated into the interiors, using locally sourced artwork to celebrate cultural heritage. Visual merchandising played a key role, with displays strategically positioned to highlight the jewelry collections and enhance brand identity. Handcrafted furniture and intricate detailing added to the sense of opulence, ensuring each showroom reflected Tanishq’s elegance and offered a sophisticated retail experience.",
+        "softwares": {
+            "concept": "Sketchup",
+            "rendering": "Unreal engine",
+            "drafting": "Autocad, Revit",
+            "presentation": "Adobe Premier Pro, Photoshop, Illustrator",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "Tanishq-10.jpg",
+        "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
+        "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
+        "Publications & Mentions":"",
+        "link":""
+    },
+    {
+        "id": "5",
+        "title": "Sri-Nam Residence",
+        "subTitle": "Independent house-Personal project",
+        "mainImage": "Srinam1.png",
+        "gallery": [
+            {
+                "id": "4.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "Srinam2.png"
+            },
+            {
+                "id": "4.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Srinam3.png"
+            },
+            {
+                "id": "4.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Srinam4.png"
+            }
+     ],
+        "date": "2022-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "Collab with Sooru studios",
+        "description":"Designed the retail spaces for Tanishq, India’s largest jewelry brand under TATA, focusing on creating customer-friendly environments that blend functionality and luxury. Traditional craftsmanship was integrated into the interiors, using locally sourced artwork to celebrate cultural heritage. Visual merchandising played a key role, with displays strategically positioned to highlight the jewelry collections and enhance brand identity. Handcrafted furniture and intricate detailing added to the sense of opulence, ensuring each showroom reflected Tanishq’s elegance and offered a sophisticated retail experience.",
+        "softwares": {
+            "concept": "Sketchup",
+            "rendering": "Unreal engine",
+            "drafting": "Autocad, Revit",
+            "presentation": "Adobe Premier Pro, Photoshop, Illustrator",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "Tanishq-10.jpg",
+        "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
+        "Category":["Architecture"],
+        "Publications & Mentions":"",
+        "link":""
+    },
+    {
+        "id": "6",
+        "title": "AI-Revit",
+        "subTitle": "Experimental project integration of AI and Revit",
+        "mainImage": "Revit4.jpg",
+        "gallery": [
+            {
+                "id": "4.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "Revit.jpg"
+            },
+            {
+                "id": "4.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Revit2.jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Revit3.jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Revit5.jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Revit6.jpg"
+            }
+     ],
+        "date": "2022-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "Andrea Cadioli, SCI-Arc team",
+        "description":"The Revit Folly project exemplifies the integration of AI and Revit, showcasing their transformative impact on architecture. This tower design, originating from a Revit studio project, was enhanced by AI to explore complex forms and streamline visualization. By leveraging these technologies, architects can assess functionalities, predict outcomes, and refine designs with precision and speed. The AI-driven Revit model accelerates the design process, fostering creativity and enabling a smooth transition from conceptual sketches to multi-dimensional structures that are both functional and visually striking.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "Revit",
+            "presentation": "",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "Tanishq-10.jpg",
+        "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
+        "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
+        "Publications & Mentions":"",
+        "link":""
+    },
+    {
+        "id": "7",
+        "title": "Mumbai Metro Line-6",
+        "subTitle": "Experimental integration of AI and Revit",
+        "mainImage": "MMRDA.jpg",
+        "gallery": [],
+        "date": "2018-2019",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "SJ-SMEC, Station design team",
+        "description":"The design of Mumbai Metro Line 6 stations, focusing on optimizing construction costs and enhancing accessibility. The design included three distinct station types tailored to varying site conditions. Type A featured the platform and concourse on the same level, connected by pedestrian flyovers. Type B elevated the platform and concourse above a street flyover, while Type C adapted to narrow sites with reduced lengths for technical rooms and essential facilities. These designs aimed to streamline construction while ensuring efficient passenger flow and accessibility, contributing to the city's expanding transit network.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "Revit",
+            "presentation": "",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "Tanishq-10.jpg",
+        "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
+        "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
+        "Publications & Mentions":"",
+        "link":""
+    },
+    {
+        "id": "8",
+        "title": "ADDC",
+        "subTitle": "Interior design for Abu Dhabi commerial project",
+        "mainImage": "ADDC.jpg",
+        "gallery": [],
+        "date": "2018-2019",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "SJ-SMEC, Station design team",
+        "description":"Worked on the interior design for a commercial project in Abu Dhabi, focusing on creating a sophisticated and functional space that reflects the region's modern aesthetic while incorporating traditional elements. The design emphasized open floor plans, natural light, and premium materials such as marble and glass. Custom-made furniture and fixtures were integrated to enhance the space's elegance, while strategic lighting created a welcoming and professional atmosphere. The project balanced contemporary design with cultural influences, resulting in a dynamic environment that catered to both client and visitor needs.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "Revit",
+            "presentation": "",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "Tanishq-10.jpg",
+        "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
+        "Category":["Architecture","Interior-design"],
+        "Publications & Mentions":"",
+        "link":""
+    }   
 ]

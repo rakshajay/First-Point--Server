@@ -1,0 +1,277 @@
+[
+    {
+        "id": "1",
+        "title": "Coffee shop",
+        "subTitle": "Webdev project for new local coffee shop",
+        "mainImage": "Coffee-4.png",
+        "gallery": [
+            {
+                "id": "1.1",
+                "description": "-",
+                "image": "Coffee-1.png"
+            },
+            {
+                "id": "1.2",
+                "description": "",
+                "image": "Coffee-2.png"
+            },
+            {
+                "id": "1.3",
+                "description": "",
+                "image": "Coffee-3.png"
+            },
+            {
+                "id": "1.4",
+                "description": "",
+                "image": "Coffee-5.png"
+            }
+        ],
+        "date": "June-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation",
+        "description": "This project involves building a multi-page website for a new local coffee shop, focusing on a Landing Page and Menu Page to establish its digital presence before opening. The Landing Page introduces visitors to the shop, providing essential information and contact details, while the Menu Page showcases offerings with descriptions and pricing.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/Raksha-shetty-Coffeeshop"
+    },
+    {
+        "id": "2",
+        "title": "BandSite",
+        "subTitle": "Webdev project for up-and-coming band",
+        "mainImage": "Bandsite-1.png",
+        "gallery": [
+            {
+                "id": "2.1",
+                "description": "-",
+                "image": "Bandsite-2.png"
+            },
+            {
+                "id": "2.2",
+                "description": "",
+                "image": "Bandsite-3.png"
+            },
+            {
+                "id": "2.3",
+                "description": "",
+                "image": "Bandsite-4.png"
+            },
+            {
+                "id": "2.4",
+                "description": "",
+                "image": "Bandsite-5.png"
+            }
+        ],
+        "date": "June-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation",
+        "description": "For this project, I developed a dynamic website that retrieves live data from a server via an API, replacing previously hardcoded content. The site features a comments section and an additional screen designed according to updated mockups. I implemented interactivity using JavaScript, allowing seamless user engagement while awaiting back-end functionalities. This project showcases my ability to integrate APIs and enhance user experience through effective design and development practices.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/Raksha-Shetty-Bandsite"
+    },
+    {
+        "id": "3",
+        "title": "BrainFlix",
+        "subTitle": "Webdev project for new video streaming platform",
+        "mainImage": "BrainFlix-1.png",
+        "gallery": [
+            {
+                "id": "3.1",
+                "description": "-",
+                "image": "BrainFlix-2.png"
+            },
+            {
+                "id": "3.2",
+                "description": "",
+                "image": "BrainFlix-3.png"
+            },
+            {
+                "id": "3.3",
+                "description": "",
+                "image": "BrainFlix-4.png"
+            },
+            {
+                "id": "3.4",
+                "description": "",
+                "image": "BrainFlix-5.png"
+            }
+        ],
+        "date": "Aug-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation",
+        "description": "For this project, I developed a prototype for BrainFlix, a new video streaming platform, within a tight three-week timeline. I utilized provided mockups to create a responsive app prototype using HTML, CSS, and React. After initial feedback, I integrated a mock API to display hard-coded movie data and implemented functionality for adding new video content. In the final sprint, I transitioned to building a custom API to manage video data, enhancing the prototype's capabilities and ensuring a seamless client-server interaction.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/Raksha-Shetty-Brainflix"
+    },
+    {
+        "id": "4",
+        "title": "In-Stock",
+        "subTitle": "Webdev project for new video streaming platform",
+        "mainImage": "InStock (1).jpg",
+        "gallery": [
+            {
+                "id": "4.1",
+                "description": "-",
+                "image": "InStock (2).jpg"
+            },
+            {
+                "id": "4.2",
+                "description": "",
+                "image": "InStock (3).jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "",
+                "image": "InStock (4).jpg"
+            },
+            {
+                "id": "4.4",
+                "description": "",
+                "image": "InStock (5).jpg"
+            },
+            {
+                "id": "4.5",
+                "description": "",
+                "image": "InStock (6).jpg"
+            },
+            {
+                "id": "4.6",
+                "description": "",
+                "image": "InStock (7).jpg"
+            },
+            {
+                "id": "4.7",
+                "description": "",
+                "image": "InStock (8).jpg"
+            },
+            {
+                "id": "4.8",
+                "description": "",
+                "image": "InStock (9).jpg"
+            },
+            {
+                "id": "4.9",
+                "description": "",
+                "image": "InStock (10).jpg"
+            },
+            {
+                "id": "4.10",
+                "description": "",
+                "image": "InStock (11).jpg"
+            },
+            {
+                "id": "4.11",
+                "description": "",
+                "image": "InStock (12).jpg"
+            }
+        ],
+        "date": "Aug-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "For this project, I collaborated with an Agile team to develop an Inventory Management System named “InStock,” for a Fortune 500 client. Our goal was to create a scalable, full-stack application using a modern React front-end integrated with a robust Express back-end, addressing performance issues from the client's existing system. We utilized tools like Figma for design specifications and prototyping, ensuring our application closely resembled the provided mockups across all breakpoints. Task management was facilitated through a Jira Scrum board, allowing us to plan, track progress, and communicate effectively about hurdles and blockers. Leveraging technologies such as Node, MySQL, and Knex, alongside Git, GitHub, and npm, we ensured timely delivery of a functional and visually polished product that met all specified requirements without bugs",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/InStock-client"
+    },
+    {
+        "id": "6",
+        "title": "Purr-fect Hunt",
+        "subTitle": "Hackathon project",
+        "mainImage": "Cat-6.png",
+        "gallery": [
+            {
+                "id": "5.1",
+                "description": "-",
+                "image": "Cat-1.png"
+            },
+            {
+                "id": "5.2",
+                "description": "",
+                "image": "Cat-2.png"
+            },
+            {
+                "id": "5.3",
+                "description": "",
+                "image": "Cat-3.png"
+            },
+            {
+                "id": "15.4",
+                "description": "",
+                "image": "Cat-4.png"
+            },
+            {
+                "id": "5.5",
+                "description": "",
+                "image": "Cat-5.png"
+            }
+        ],
+        "date": "June-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "For our hackathon project, our team of three developed a simple yet engaging card game. Users can choose the grid size, and when they turn over a card, they aim to reveal either a dog or cat image. Revealing the dog image results in a loss, while uncovering the cat image leads to a win. We integrated APIs to fetch dog and cat images and used a random color API to assign vibrant colors to the cards, enhancing the visual appeal of the game. This project showcased our ability to collaborate effectively and create an interactive user experience.",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "",
+            "technology": "",
+            "device": "",
+            "coding-languages": ""
+        },
+        "videoThumbnail": "",
+        "video":"",
+        "Category":["Web Development","Technology","Coding"],
+        "Publications & Mentions":"",
+        "link":"https://github.com/rakshajay/brainstation_hackathon"
+    }
+]
