@@ -30,7 +30,7 @@
         "siteLocation": "-",
         "siteArea": "-",
         "workedWith": "SCI-Arc",
-        "description": "This app, developed for my thesis at SCI-Arc, merges neuroscience and architectural design to enhance the shopping experience. Using EEG technology, it tracks customers' brainwaves and adapts the retail environment based on their emotional and cognitive states. By integrating AI algorithms, the store offers a dynamic, personalized experience that responds to individual moods and preferences. This technology shifts retail from a simple transaction to an interactive and engaging journey, tailored to each visitor's unique responses.",
+        "description": "This app, developed for my thesis at SCI-Arc, merges neuroscience and architectural design to enhance the shopping experience. Using EEG technology, it tracks customers' brainwaves and adapts the retail environment based on their emotional and cognitive states. By integrating Stable Diffusion and ChatGPT APIs, the store offers a dynamic, AI-driven personalized experience that responds to individual moods and preferences. This technology shifts retail from a simple transaction to an interactive and engaging journey, tailored to each visitor's unique responses.",
         "softwares": {
             "concept": "Miro, Figma",
             "rendering": "Unreal engine",
@@ -49,7 +49,7 @@
     {
         "id": "2",
         "title": "Zoya",
-        "subTitle": "Retail design of Diamond Boutique-company project",
+        "subTitle": "Retail design of Diamond Boutique",
         "mainImage": "zoya (3).jpg",
         "gallery": [
             {
@@ -82,7 +82,7 @@
         "siteLocation": "Bengaluru, India",
         "siteArea": "3,000 sq ft",
         "workedWith": "Titan Corporates, IRSG team",
-        "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata. The design incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
+        "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata.Using AutoCAD and Revit the design process incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
         "softwares": {
             "concept": "Sketchup",
             "rendering": "-",
@@ -159,7 +159,7 @@
         "siteLocation": "Daegu, South Korea",
         "siteArea": "Full city",
         "workedWith": "Soomeen Hahm, SCI-Arc team",
-        "description": "This project, conducted in collaboration with Soomeen Hahm's Studio @SCI-Arc, explores the concept of augmented cities and the impact of advanced technologies on urban life. The studio investigates the potential of AI and emerging innovations to reshape how we live, work, and interact within cities. Through creative, student-led explorations, the project examines 14 unique concepts, offering a collective vision for future urban spaces where technology and humanity coexist harmoniously. The detailed narratives and critical perspectives provide a glimpse into how these advancements will revolutionize cities like Daegu, blending history with cutting-edge technological progress.",
+        "description": "This project, conducted in collaboration with Soomeen Hahm's Studio @SCI-Arc, explores the concept of augmented cities and the impact of advanced technologies on urban life. The studio investigates the potential of AI and emerging innovations to reshape how we live, work, and interact within cities. Through creative, student-led explorations, the project examines 14 unique concepts, offering a collective vision for future urban spaces where technology and humanity coexist harmoniously. Rhino facilitates complex forms and rendering, while Adobe Premiere Pro, Photoshop, and Illustrator support presentations. The detailed narratives and critical perspectives provide a glimpse into how these advancements will revolutionize cities like Daegu, blending history with cutting-edge technological progress.",
         "softwares": {
             "concept": "Rhino",
             "rendering": "Rhino",
@@ -240,7 +240,7 @@
     {
         "id": "5",
         "title": "Sri-Nam Residence",
-        "subTitle": "Independent house-Personal project",
+        "subTitle": "Independent villa project",
         "mainImage": "Srinam1.png",
         "gallery": [
             {
@@ -334,14 +334,14 @@
     {
         "id": "7",
         "title": "Mumbai Metro Line-6",
-        "subTitle": "Experimental integration of AI and Revit",
+        "subTitle": "Infrastructure project",
         "mainImage": "MMRDA.jpg",
         "gallery": [],
-        "date": "2018-2019",
+        "date": "2017-2019",
         "siteLocation": "-",
         "siteArea": "-",
         "workedWith": "SJ-SMEC, Station design team",
-        "description":"The design of Mumbai Metro Line 6 stations, focusing on optimizing construction costs and enhancing accessibility. The design included three distinct station types tailored to varying site conditions. Type A featured the platform and concourse on the same level, connected by pedestrian flyovers. Type B elevated the platform and concourse above a street flyover, while Type C adapted to narrow sites with reduced lengths for technical rooms and essential facilities. These designs aimed to streamline construction while ensuring efficient passenger flow and accessibility, contributing to the city's expanding transit network.",
+        "description":"The design of Mumbai Metro Line 6 stations, focusing on optimizing construction costs and enhancing accessibility. Using Revit for drafting, the designs accommodate various site constraints. The design included three distinct station types tailored to varying site conditions. Type A featured the platform and concourse on the same level, connected by pedestrian flyovers. Type B elevated the platform and concourse above a street flyover, while Type C adapted to narrow sites with reduced lengths for technical rooms and essential facilities. These designs aimed to streamline construction while ensuring efficient passenger flow and accessibility, contributing to the city's expanding transit network.",
         "softwares": {
             "concept": "",
             "rendering": "",
@@ -367,7 +367,7 @@
         "siteLocation": "-",
         "siteArea": "-",
         "workedWith": "SJ-SMEC, Station design team",
-        "description":"Worked on the interior design for a commercial project in Abu Dhabi, focusing on creating a sophisticated and functional space that reflects the region's modern aesthetic while incorporating traditional elements. The design emphasized open floor plans, natural light, and premium materials such as marble and glass. Custom-made furniture and fixtures were integrated to enhance the space's elegance, while strategic lighting created a welcoming and professional atmosphere. The project balanced contemporary design with cultural influences, resulting in a dynamic environment that catered to both client and visitor needs.",
+        "description":"Worked on the interior design for a commercial project in Abu Dhabi, Using Revit, rhino and lumion focused on creating a sophisticated and functional space that reflects the region's modern aesthetic while incorporating traditional elements. The design emphasized open floor plans, natural light, and premium materials such as marble and glass. Custom-made furniture and fixtures were integrated to enhance the space's elegance, while strategic lighting created a welcoming and professional atmosphere. The project balanced contemporary design with cultural influences, resulting in a dynamic environment that catered to both client and visitor needs.",
         "softwares": {
             "concept": "",
             "rendering": "",
@@ -382,5 +382,31 @@
         "Category":["Architecture","Interior-design"],
         "Publications & Mentions":"",
         "link":""
-    }   
+    },
+    {
+        "id": "9",
+        "title": "Asetz",
+        "subTitle": "Interior design for viall project",
+        "mainImage": "Coming-Soon.png",
+        "gallery": [],
+        "date": "2022-2023",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "",
+        "description":" ",
+        "softwares": {
+            "concept": "",
+            "rendering": "",
+            "drafting": "Revit",
+            "presentation": "",
+            "technology": "-",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": " ",
+        "video":" ",
+        "Category":["Architecture","Interior-design"],
+        "Publications & Mentions":"",
+        "link":""
+    }    
 ]
