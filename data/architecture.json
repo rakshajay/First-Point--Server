@@ -244,17 +244,17 @@
         "mainImage": "Srinam1.png",
         "gallery": [
             {
-                "id": "4.1",
+                "id": "5.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
                 "image": "Srinam2.png"
             },
             {
-                "id": "4.2",
+                "id": "5.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Srinam3.png"
             },
             {
-                "id": "4.3",
+                "id": "5.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Srinam4.png"
             }
@@ -286,27 +286,27 @@
         "mainImage": "Revit4.jpg",
         "gallery": [
             {
-                "id": "4.1",
+                "id": "6.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
                 "image": "Revit.jpg"
             },
             {
-                "id": "4.2",
+                "id": "6.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit2.jpg"
             },
             {
-                "id": "4.3",
+                "id": "6.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit3.jpg"
             },
             {
-                "id": "4.3",
+                "id": "6.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit5.jpg"
             },
             {
-                "id": "4.3",
+                "id": "6.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit6.jpg"
             }
