@@ -8,7 +8,7 @@ import arRouter from "./routes/ar.js";
 const app = express();
 
 const { PORT } = process.env;
-// const allowedOrigins = CORS_ORIGIN.split(','); // Split CORS_ORIGIN by commas to get an array of origins
+const allowedOrigins = CORS_ORIGIN.split(','); // Split CORS_ORIGIN by commas to get an array of origins
 
 // CORS configuration to allow multiple origins
 app.use(cors({
