@@ -301,12 +301,12 @@
                 "image": "Revit3.jpg"
             },
             {
-                "id": "6.3",
+                "id": "6.4",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit5.jpg"
             },
             {
-                "id": "6.3",
+                "id": "6.5",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
                 "image": "Revit6.jpg"
             }
@@ -335,8 +335,49 @@
         "id": "7",
         "title": "Mumbai Metro Line-6",
         "subTitle": "Infrastructure project",
-        "mainImage": "MMRDA.jpg",
-        "gallery": [],
+        "mainImage": "Metro (9).jpg",
+        "gallery": [
+            {
+                "id": "7.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "Metro (1).jpg"
+            },
+            {
+                "id": "7.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (2).jpg"
+            },
+            {
+                "id": "7.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (3).jpg"
+            },
+            {
+                "id": "7.4",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (4).jpg"
+            },
+            {
+                "id": "7.5",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (5).jpg"
+            },
+            {
+                "id": "7.6",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (6).jpg"
+            },
+            {
+                "id": "7.7",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (7).jpg"
+            },
+            {
+                "id": "7.8",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "Metro (8).jpg"
+            }
+     ],
         "date": "2017-2019",
         "siteLocation": "-",
         "siteArea": "-",
