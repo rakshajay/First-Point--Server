@@ -3,32 +3,27 @@
         "id": "1",
         "title": "Interactive AR Story book",
         "subTitle": "An Unity based project",
-        "mainImage": "ARapp(5).jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755798/ARapp_5_il3xqb.jpg",
         "gallery": [
             {
                 "id": "1.1",
                 "description": "Screen shots of Interactive AR Book",
-                "image": "ARapp(1).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755799/ARapp_1_hr4sfx.jpg"
             },
             {
                 "id": "1.2",
                 "description": "Screen shots of Interactive AR Book",
-                "image": "ARapp(2).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755799/ARapp_2_nlb64o.jpg"
             },
             {
                 "id": "1.3",
                 "description": "Screen shots of Interactive AR Book",
-                "image": "ARapp(3).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755800/ARapp_3_hr6lg4.jpg"
             },
             {
                 "id": "1.4",
                 "description": "Screen shots of Interactive AR Book",
-                "image": "ARapp(4).jpg"
-            },
-            {
-                "id": "1.5",
-                "description": "Short Video of animation",
-                "image": "ARapp(6).gif"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755798/ARapp_4_ew4ou5.jpg"
             }
         ],
         "date": "April-2023",
@@ -41,7 +36,7 @@
             "technology": "Augmented reality",
             "coding-languages": "Unity C#"
         },
-        "videoThumbnail": "ARapp(5).jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755798/ARapp_5_il3xqb.jpg",
         "video":"https://www.youtube.com/watch?v=hfeOa998XkY&t=1s",
         "Category":["AR","Technology"]
     },
@@ -49,32 +44,32 @@
         "id": "2",
         "title": "Quest AR appHome styling",
         "subTitle": "An AR app to choose right interior design",
-        "mainImage": "XR4.png",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR4_bqufeq.png",
         "gallery": [
             {
                 "id": "2.1",
                 "description": "Hand controller navigating UI options for home styling",
-                "image": "XR.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR_b88upx.png"
             },
             {
                 "id": "2.3",
                 "description": "Grip and move, to place objects, pinch, to resize or rotate",
-                "image": "XR1.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR1_sxnx8h.png"
             },
             {
                 "id": "2.4",
                 "description": "Customizing wallpaper options using hand gestures in an AR room setting",
-                "image": "XR2.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR2_iogzth.png"
             },
             {
                 "id": "2.5",
                 "description": "Display podiums design",
-                "image": "XR3.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR3_q9tmwf.png"
             },
             {
                 "id": "2.6",
                 "description": "Bedroom styling",
-                "image": "XR5.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755826/XR5_sqh1ev.png"
             }
         ],
         "date": "Nov-2023",
@@ -87,7 +82,7 @@
             "technology": "Augmented reality",
             "coding-languages": "Unity C#"
         },
-        "videoThumbnail": "XR4.png",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755825/XR4_bqufeq.png",
         "video":"https://www.youtube.com/watch?v=CuJDXkJ520k",
         "Category":["Architecture","Interior-design","AR","Technology"]
     }
