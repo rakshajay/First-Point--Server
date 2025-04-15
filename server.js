@@ -23,7 +23,7 @@ app.use(cors({
 }));
 
 app.use(express.json()); // Parse incoming requests with JSON payloads
-app.use(express.static("public")); // Serve static files from the 'public' folder
+//app.use(express.static("public")); // Serve static files from the 'public' folder
 
 app.use(archiRouter); // Use the router as middleware
 app.use(webRouter);

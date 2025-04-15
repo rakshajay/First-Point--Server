@@ -8,22 +8,22 @@
             {
                 "id": "1.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Thesis1.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755823/Thesis1_mt1xej.jpg"
             },
             {
                 "id": "1.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Thesis.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755823/Thesis_fcwfjr.jpg"
             },
             {
                 "id": "1.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Thesis2.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755823/Thesis2_japzmp.jpg"
             },
             {
                 "id": "1.4",
                 "description": "Device used to build application",
-                "image": "Thesis5.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755826/Thesis5_ca8cme.png"
             }
         ],
         "date": "Sep-2023",
