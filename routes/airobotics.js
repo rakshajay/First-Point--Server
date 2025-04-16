@@ -19,7 +19,7 @@ router.get("/airobotics", (req, res) => {
             videoThumbnail:airobotics.videoThumbnail,
             video:airobotics.video,
             description:airobotics.description,
-            link:webdev.link,
+            link:airobotics.link,
         }));
 
         res.send(airoboticsData);
