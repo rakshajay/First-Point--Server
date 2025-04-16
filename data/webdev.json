@@ -1,29 +1,324 @@
 [
     {
         "id": "1",
-        "title": "Coffee shop",
-        "subTitle": "Webdev project for new local coffee shop",
-        "mainImage": "Coffee-4.png",
+        "title": "LED Screen Mounting Diagram Tool",
+        "subTitle": "Interactive tool for generating LED screen installation diagrams in real-time.",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744824784/InstallationApp_b9kczy.png",
         "gallery": [
             {
                 "id": "1.1",
                 "description": "-",
-                "image": "Coffee-1.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825721/Installationapp2_dx0vp0.gif"
+            }
+        ],
+        "date": "Dec-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "Freelance Project",
+        "description": "An interactive React app that generates precise LED screen installation diagrams based on user inputs. Built with React, Vite, JavaScript, Sass, and libraries like HTML2Canvas, jsPDF, SweetAlert2, and XLSX, the tool lets users select equipment, customize configurations (orientation, wall type, measurements), and view real-time updates. It supports responsive design and PDF export for professional use. This project simplifies complex setups and streamlines communication between teams through clear, customizable visuals.",
+        "softwares": {
+            "concept": "Figma",
+            "rendering": "",
+            "drafting": "-",
+            "presentation": "SweetAlert2, jsPDF",
+            "technology": "React, Vite, HTML2Canvas, XLSX",
+            "device": "Web-based (Desktop, Tablet)",
+            "coding-languages": "JavaScript, Sass"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://screen-mounting-diagram-tool.vercel.app/"
+    },
+    {
+        "id": "2",
+        "title": "3D viewer & editor app",
+        "subTitle": "Web app to explore, transform, and manage 3D models in real time.",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825880/3d_editor_1_si0m0p.png",
+        "gallery": [
+            {
+                "id": "2.1",
+                "description": "-",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825882/3d_editor_2_f9cq7y.png"
             },
             {
-                "id": "1.2",
+                "id": "2.2",
                 "description": "",
-                "image": "Coffee-2.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825884/3d_editor_3_h9w9yz.png"
             },
             {
-                "id": "1.3",
+                "id": "2.3",
                 "description": "",
-                "image": "Coffee-3.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825886/3d_editor_4_zpdhyb.png"
             },
             {
-                "id": "1.4",
+                "id": "2.4",
                 "description": "",
-                "image": "Coffee-5.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744825877/3d_editor_5_xlyvyv.png"
+            }
+        ],
+        "date": "Feb-2025",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "-",
+        "description": "Simple 3D Viewer is a React and Three.js-based web app to load, inspect, and transform 3D models in real time. It features drag-and-drop loading, a clickable hierarchy tree, and interactive transform controls using leva. The app supports .glb and .gltf files, with real-time updates for position, rotation, and scale. Built using @react-three/fiber, drei, Sass, and SweetAlert2, it provides a simple yet powerful interface for viewing and managing 3D scenes directly in the browser.",
+        "softwares": {
+            "concept": "Figma",
+            "rendering": "Three.js",
+            "drafting": "-",
+            "presentation": "SweetAlert2, Loom",
+            "technology": "React, @react-three/fiber, Drei, Leva, Sass",
+            "device": "Web-based (Desktop)",
+            "coding-languages": "JavaScript, Sass"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://threejs-editor-app.vercel.app/"
+    },
+    {
+        "id": "3",
+        "title": "BrainFlix",
+        "subTitle": "Webdev project for new video streaming platform",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755810/BrainFlix-1_y3fwb1.png",
+        "gallery": [
+            {
+                "id": "3.1",
+                "description": "-",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755803/BrainFlix-2_b3k08k.png"
+            },
+            {
+                "id": "3.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755804/BrainFlix-3_nrugob.png"
+            },
+            {
+                "id": "3.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755804/BrainFlix-4_uaog7u.png"
+            }
+        ],
+        "date": "Aug-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation",
+        "description": "For this project, I developed a prototype for BrainFlix, a new video streaming platform, within a tight three-week timeline. I utilized provided mockups to create a responsive app prototype using HTML, CSS, and React. After initial feedback, I integrated a mock API to display hard-coded movie data and implemented functionality for adding new video content. In the final sprint, I transitioned to building a custom API to manage video data, enhancing the prototype's capabilities and ensuring a seamless client-server interaction.",
+        "softwares": {
+            "concept": "Figma (provided mockups)",
+            "rendering": "-",
+            "drafting": "-",
+            "presentation": "HTML, CSS, React",
+            "technology": "React, Express (custom API), Node.js",
+            "device": "Responsive Web App",
+            "coding-languages": "HTML, CSS, JavaScript (React)"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/Raksha-Shetty-Brainflix"
+    },
+    {
+        "id": "4",
+        "title": "In-Stock",
+        "subTitle": "Webdev project for Fortune 500 client",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755814/InStock_1_wstapo.jpg",
+        "gallery": [
+            {
+                "id": "4.1",
+                "description": "-",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755814/InStock_2_p6uvvr.jpg"
+            },
+            {
+                "id": "4.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755814/InStock_3_r81rat.jpg"
+            },
+            {
+                "id": "4.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_4_igqd5o.jpg"
+            },
+            {
+                "id": "4.4",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_5_cle78y.jpg"
+            },
+            {
+                "id": "4.5",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_6_kbkl5n.jpg"
+            },
+            {
+                "id": "4.6",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_7_e2djmo.jpg"
+            },
+            {
+                "id": "4.7",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_8_hbnnir.jpg"
+            },
+            {
+                "id": "4.8",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755815/InStock_9_prrowy.jpg"
+            },
+            {
+                "id": "4.9",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755816/InStock_10_q4ixw7.jpg"
+            }
+        ],
+        "date": "Aug-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "For this project, I collaborated with an Agile team to develop an Inventory Management System named “InStock,” for a Fortune 500 client. Our goal was to create a scalable, full-stack application using a modern React front-end integrated with a robust Express back-end, addressing performance issues from the client's existing system. We utilized tools like Figma for design specifications and prototyping, ensuring our application closely resembled the provided mockups across all breakpoints. Task management was facilitated through a Jira Scrum board, allowing us to plan, track progress, and communicate effectively about hurdles and blockers. Leveraging technologies such as Node, MySQL, and Knex, alongside Git, GitHub, and npm, we ensured timely delivery of a functional and visually polished product that met all specified requirements without bugs",
+        "softwares": {
+            "concept": "Figma",
+            "rendering": "-",
+            "drafting": "-",
+            "presentation": "Figma, Jira Scrum board",
+            "technology": "React, Express, Node.js, MySQL, Knex, Git, GitHub, npm",
+            "device": "Web-based (Responsive across all breakpoints)",
+            "coding-languages": "JavaScript, SQL"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/InStock-client"
+    },
+    {
+        "id": "5",
+        "title": "Purr-fect Hunt",
+        "subTitle": "Hackathon project",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755808/Cat-6_uolvpf.png",
+        "gallery": [
+            {
+                "id": "5.1",
+                "description": "-",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755805/Cat-1_zogfk1.png"
+            },
+            {
+                "id": "5.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755806/Cat-2_ohhxtn.png"
+            },
+            {
+                "id": "5.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755806/Cat-3_xrzokb.png"
+            },
+            {
+                "id": "5.4",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755808/Cat-4_ierhsi.png"
+            },
+            {
+                "id": "5.5",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755561/samples/animals/cat.jpg"
+            }
+        ],
+        "date": "June-2024",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "For our hackathon project, our team of three developed a simple yet engaging card game. Users can choose the grid size, and when they turn over a card, they aim to reveal either a dog or cat image. Revealing the dog image results in a loss, while uncovering the cat image leads to a win. We integrated APIs to fetch dog and cat images and used a random color API to assign vibrant colors to the cards, enhancing the visual appeal of the game. This project showcased our ability to collaborate effectively and create an interactive user experience.",
+        "softwares": {
+            "concept": "Figma / Whiteboard (assumed for planning UI/UX)",
+            "rendering": "-",
+            "drafting": "-",
+            "presentation": "-",
+            "technology": "React, Random Color API, Cat & Dog Image APIs",
+            "device": "Web-based Game (Responsive)",
+            "coding-languages": "JavaScript, HTML, CSS"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/brainstation_hackathon"
+    },
+    {
+        "id": "6",
+        "title": "TELL-US more",
+        "subTitle": "Industry Challenge",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744827025/TellUS_wtiqop.png",
+        "gallery": [],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "BrainStation team",
+        "description": "The “TELUS more” project addresses the issue of choice overload in TV streaming by allowing users to build personalized network bundles. The solution involves a user-friendly survey on the TELUS site that recommends content based on individual preferences. Technologically, the project uses the TV Maze API, a free public API, to gather show data such as names, networks, and ratings. Although the prototype lacks features like user authentication and real TELUS data integration, it effectively demonstrates the potential for enhancing customer satisfaction through personalized recommendations and interactive bundle creation.",
+        "softwares": {
+            "concept": "Figma or Adobe XD",
+            "rendering": "Figma",
+            "drafting": "-",
+            "presentation": "Google Slides or PowerPoint",
+            "technology": "TV Maze API, Web development tools",
+            "device": "Web browser ",
+            "coding-languages": "HTML, CSS, JavaScript"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/TellUsMore-Industry-Challenge"
+    },
+    {
+        "id": "7",
+        "title": "Coffee shop",
+        "subTitle": "Webdev project for new local coffee shop",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755809/Coffee-4_fjj4kt.png",
+        "gallery": [
+            {
+                "id": "7.1",
+                "description": "-",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755806/Coffee-1_l5xlwv.png"
+            },
+            {
+                "id": "7.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755807/Coffee-2_ftst1t.png"
+            },
+            {
+                "id": "7.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755807/Coffee-3_ggpgdz.png"
+            },
+            {
+                "id": "7.4",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755809/Coffee-5_qvl9fd.png"
             }
         ],
         "date": "June-2024",
@@ -41,36 +336,40 @@
             "coding-languages": ""
         },
         "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/Raksha-shetty-Coffeeshop"
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/Raksha-shetty-Coffeeshop"
     },
     {
-        "id": "2",
+        "id": "8",
         "title": "BandSite",
         "subTitle": "Webdev project for up-and-coming band",
-        "mainImage": "Bandsite-1.png",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755802/Bandsite-1_b1owml.png",
         "gallery": [
             {
-                "id": "2.1",
+                "id": "8.1",
                 "description": "-",
-                "image": "Bandsite-2.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755800/Bandsite-2_wvjvi9.png"
             },
             {
-                "id": "2.2",
+                "id": "8.2",
                 "description": "",
-                "image": "Bandsite-3.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755804/Bandsite-3_faxlec.png"
             },
             {
-                "id": "2.3",
+                "id": "8.3",
                 "description": "",
-                "image": "Bandsite-4.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755805/Bandsite-4_igdqzm.png"
             },
             {
-                "id": "2.4",
+                "id": "8.4",
                 "description": "",
-                "image": "Bandsite-5.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755802/Bandsite-1_b1owml.png"
             }
         ],
         "date": "June-2024",
@@ -88,346 +387,13 @@
             "coding-languages": ""
         },
         "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/Raksha-Shetty-Bandsite"
-    },
-    {
-        "id": "3",
-        "title": "BrainFlix",
-        "subTitle": "Webdev project for new video streaming platform",
-        "mainImage": "BrainFlix-1.png",
-        "gallery": [
-            {
-                "id": "3.1",
-                "description": "-",
-                "image": "BrainFlix-2.png"
-            },
-            {
-                "id": "3.2",
-                "description": "",
-                "image": "BrainFlix-3.png"
-            },
-            {
-                "id": "3.3",
-                "description": "",
-                "image": "BrainFlix-4.png"
-            },
-            {
-                "id": "3.4",
-                "description": "",
-                "image": "BrainFlix-5.png"
-            }
+        "video": "",
+        "Category": [
+            "Web Development",
+            "Technology",
+            "Coding"
         ],
-        "date": "Aug-2024",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation",
-        "description": "For this project, I developed a prototype for BrainFlix, a new video streaming platform, within a tight three-week timeline. I utilized provided mockups to create a responsive app prototype using HTML, CSS, and React. After initial feedback, I integrated a mock API to display hard-coded movie data and implemented functionality for adding new video content. In the final sprint, I transitioned to building a custom API to manage video data, enhancing the prototype's capabilities and ensuring a seamless client-server interaction.",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/Raksha-Shetty-Brainflix"
-    },
-    {
-        "id": "4",
-        "title": "In-Stock",
-        "subTitle": "Webdev project for Fortune 500 client",
-        "mainImage": "InStock (1).jpg",
-        "gallery": [
-            {
-                "id": "4.1",
-                "description": "-",
-                "image": "InStock (2).jpg"
-            },
-            {
-                "id": "4.2",
-                "description": "",
-                "image": "InStock (3).jpg"
-            },
-            {
-                "id": "4.3",
-                "description": "",
-                "image": "InStock (4).jpg"
-            },
-            {
-                "id": "4.4",
-                "description": "",
-                "image": "InStock (5).jpg"
-            },
-            {
-                "id": "4.5",
-                "description": "",
-                "image": "InStock (6).jpg"
-            },
-            {
-                "id": "4.6",
-                "description": "",
-                "image": "InStock (7).jpg"
-            },
-            {
-                "id": "4.7",
-                "description": "",
-                "image": "InStock (8).jpg"
-            },
-            {
-                "id": "4.8",
-                "description": "",
-                "image": "InStock (9).jpg"
-            },
-            {
-                "id": "4.9",
-                "description": "",
-                "image": "InStock (10).jpg"
-            },
-            {
-                "id": "4.10",
-                "description": "",
-                "image": "InStock (11).jpg"
-            },
-            {
-                "id": "4.11",
-                "description": "",
-                "image": "InStock (12).jpg"
-            }
-        ],
-        "date": "Aug-2024",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation team",
-        "description": "For this project, I collaborated with an Agile team to develop an Inventory Management System named “InStock,” for a Fortune 500 client. Our goal was to create a scalable, full-stack application using a modern React front-end integrated with a robust Express back-end, addressing performance issues from the client's existing system. We utilized tools like Figma for design specifications and prototyping, ensuring our application closely resembled the provided mockups across all breakpoints. Task management was facilitated through a Jira Scrum board, allowing us to plan, track progress, and communicate effectively about hurdles and blockers. Leveraging technologies such as Node, MySQL, and Knex, alongside Git, GitHub, and npm, we ensured timely delivery of a functional and visually polished product that met all specified requirements without bugs",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/InStock-client"
-    },
-    {
-        "id": "5",
-        "title": "Purr-fect Hunt",
-        "subTitle": "Hackathon project",
-        "mainImage": "Cat-6.png",
-        "gallery": [
-            {
-                "id": "5.1",
-                "description": "-",
-                "image": "Cat-1.png"
-            },
-            {
-                "id": "5.2",
-                "description": "",
-                "image": "Cat-2.png"
-            },
-            {
-                "id": "5.3",
-                "description": "",
-                "image": "Cat-3.png"
-            },
-            {
-                "id": "5.4",
-                "description": "",
-                "image": "Cat-4.png"
-            },
-            {
-                "id": "5.5",
-                "description": "",
-                "image": "Cat-5.png"
-            }
-        ],
-        "date": "June-2024",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation team",
-        "description": "For our hackathon project, our team of three developed a simple yet engaging card game. Users can choose the grid size, and when they turn over a card, they aim to reveal either a dog or cat image. Revealing the dog image results in a loss, while uncovering the cat image leads to a win. We integrated APIs to fetch dog and cat images and used a random color API to assign vibrant colors to the cards, enhancing the visual appeal of the game. This project showcased our ability to collaborate effectively and create an interactive user experience.",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/brainstation_hackathon"
-    },
-    {
-        "id": "6",
-        "title": "Personal-Journal",
-        "subTitle": "Hackathon project",
-        "mainImage": "Coming-Soon.png",
-        "gallery": [
-            {
-                "id": "6.1",
-                "description": "-",
-                "image": "Loading-1.png"
-            },
-            {
-                "id": "6.2",
-                "description": "",
-                "image": "Loading-2.png"
-            },
-            {
-                "id": "6.3",
-                "description": "",
-                "image": "Loading-3.png"
-            },
-            {
-                "id": "6.4",
-                "description": "",
-                "image": "Loading-4.png"
-            },
-            {
-                "id": "6.5",
-                "description": "",
-                "image": "Loading-5.png"
-            }
-        ],
-        "date": "",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation team",
-        "description": "Building backedn for this project. Here is the GitHub link to this project [Personal Journal](https://github.com/rakshajay/BrainStation-Hackathon-2)",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/BrainStation-Hackathon-2"
-    },
-    {
-        "id": "7",
-        "title": "First-Point",
-        "subTitle": "Capstone-project",
-        "mainImage": "Coming-Soon.png",
-        "gallery": [
-            {
-                "id": "7.1",
-                "description": "-",
-                "image": "Loading-1.png"
-            },
-            {
-                "id": "7.2",
-                "description": "",
-                "image": "Loading-2.png"
-            },
-            {
-                "id": "7.3",
-                "description": "",
-                "image": "Loading-3.png"
-            },
-            {
-                "id": "7.4",
-                "description": "",
-                "image": "Loading-4.png"
-            },
-            {
-                "id": "7.5",
-                "description": "",
-                "image": "Loading-5.png"
-            }
-        ],
-        "date": "",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation team",
-        "description": "Building backedn for this project. Here is the GitHub link to this project [First-Point-Client-Side](https://github.com/rakshajay/First-Point)",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/First-Point"
-    },
-    {
-        "id": "8",
-        "title": "TELL-US more",
-        "subTitle": "Industry Challenge",
-        "mainImage": "Coming-Soon.png",
-        "gallery": [
-            {
-                "id": "8.1",
-                "description": "-",
-                "image": "Loading-1.png"
-            },
-            {
-                "id": "8.2",
-                "description": "",
-                "image": "Loading-2.png"
-            },
-            {
-                "id": "8.3",
-                "description": "",
-                "image": "Loading-3.png"
-            },
-            {
-                "id": "8.4",
-                "description": "",
-                "image": "Loading-4.png"
-            },
-            {
-                "id": "8.5",
-                "description": "",
-                "image": "Loading-5.png"
-            }
-        ],
-        "date": "",
-        "siteLocation": "-",
-        "siteArea": "-",
-        "workedWith": "BrainStation team",
-        "description": "Building backedn for this project. Here is the GitHub link to this project [First-Point-Client-Side](https://github.com/rakshajay/TellUsMore-Industry-Challenge)",
-        "softwares": {
-            "concept": "",
-            "rendering": "",
-            "drafting": "-",
-            "presentation": "",
-            "technology": "",
-            "device": "",
-            "coding-languages": ""
-        },
-        "videoThumbnail": "",
-        "video":"",
-        "Category":["Web Development","Technology","Coding"],
-        "Publications & Mentions":"",
-        "link":"https://github.com/rakshajay/TellUsMore-Industry-Challenge"
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/Raksha-Shetty-Bandsite"
     }
 ]
