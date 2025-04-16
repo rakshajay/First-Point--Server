@@ -1,0 +1,140 @@
+[
+    {
+        "id": "1",
+        "title": "Algae City",
+        "subTitle": "AI & Architecture Integration",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834372/algae-city_1_s3wza1.gif",
+        "gallery": [
+            {
+                "id": "1.1",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834692/algae-city_csusut.png"
+            },
+            {
+                "id": "1.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834369/algae-city_2_jg1krf.png"
+            },
+            {
+                "id": "1.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834369/algae-city_1_kidxdq.jpg"
+            },
+            {
+                "id": "1.4",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834369/algae-city_1_oepw0r.png"
+            },
+            {
+                "id": "1.5",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744834369/algae-city_3_d9pfpg.jpg"
+            }
+        ],
+        "date": "",
+        "siteLocation": "Cajon Pass Valley, California",
+        "siteArea": "300x300 meters",
+        "workedWith": "SCI-Arc",
+        "description": "The 'Algae City' project merges residential and industrial functions, utilizing algae culture as a sustainable power source. Algae pools generate goods like food, bioplastics, and oxygen while using industrial byproducts. The design incorporates AI-driven agent-based modeling and GAN frameworks, creating responsive architecture and eco-friendly urban landscapes. The project draws inspiration from traditional Indian step wells to minimize evaporation and enhance water storage.",
+        "softwares": {
+            "concept": "Grasshopper, Rhino, Houdini",
+            "rendering": "Unreal Engine",
+            "drafting": "-",
+            "presentation": "Google Slides, PowerPoint",
+            "technology": "AI, GANs, Agent-based Modeling",
+            "device": "Web browser",
+            "coding-languages": "Python"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Architecture",
+            "AI & Machine Learning",
+            "Sustainability"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://youtu.be/gMUyqQWN11Q"
+    },
+    {
+        "id": "2",
+        "title": "Urban Reef",
+        "subTitle": "3D Printed Mycelium Habitat",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744835852/Urban-reef_1_gipzpy.png",
+        "gallery": [
+            {
+                "id": "2.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744835851/Urban-reef_2_t24uoi.jpg"
+            },
+            {
+                "id": "2.3",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744835585/Urban-Reef_gc5trm.gif"
+            },
+            {
+                "id": "2.4",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744835583/Urban-Reef_sxbhor.jpg"
+            }
+        ],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "SCI-Arc",
+        "description": "Urban Reef explores 3D-printed mycelium architecture as a biodegradable and adaptive system for urban ecologies. Designed in Rhino and fabricated using 3D printing, the structure supports biodiversity while responding to urban microclimates. It functions as both shelter and environmental filter.",
+        "softwares": {
+            "concept": "Rhino and Grasshopper",
+            "rendering": "-",
+            "drafting": "-",
+            "presentation": "PowerPoint or Google Slides",
+            "technology": "3D Printing, Biomaterials",
+            "device": "-",
+            "coding-languages": "-"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "Architecture",
+            "Sustainability",
+            "Biodesign"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://github.com/rakshajay/UrbanReef"
+    },
+    {
+        "id": "3",
+        "title": "Laughing Glass",
+        "subTitle": "Smart Glass + AR for Joyful Cities",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744838100/Laughing-Glas_1_uy0gyi.png",
+        "gallery": [
+            {
+                "id": "3.2",
+                "description": "",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744838100/Laughing-Glas_2_papvad.png"
+            }
+        ],
+        "date": "",
+        "siteLocation": "-",
+        "siteArea": "-",
+        "workedWith": "SCI-Arc",
+        "description": "Laughing Glass uses smart facades with AR/XR to promote laughter and relieve stress in public spaces. The app displays touch-responsive, playful characters on electrochromic glass to create interactive pranks, turning parks into joyful experiences.",
+        "softwares": {
+            "concept": "Unity, Figma",
+            "rendering": "-",
+            "drafting": "-",
+            "presentation": "PowerPoint, AdobePre-pro",
+            "technology": "Smart Glass, AR, XR",
+            "device": "-",
+            "coding-languages": "C#, JavaScript"
+        },
+        "videoThumbnail": "",
+        "video": "",
+        "Category": [
+            "AR/VR/XR",
+            "Public Space",
+            "Wellness Tech"
+        ],
+        "Publications & Mentions": "",
+        "link": "https://youtu.be/yetCWH4pkLc"
+    }
+]

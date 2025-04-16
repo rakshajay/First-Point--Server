@@ -4,6 +4,7 @@ import cors from "cors";
 import archiRouter from "./routes/architecture.js";
 import webRouter from "./routes/webdev.js";
 import arRouter from "./routes/ar.js";
+import airoboticsRouter from "./routes/airobotics.js"
 
 const app = express();
 
@@ -28,6 +29,7 @@ app.use(express.static("public")); // Serve static files from the 'public' folde
 app.use(archiRouter); // Use the router as middleware
 app.use(webRouter);
 app.use(arRouter);
+app.use(airoboticsRouter);
 
 app.listen(PORT, () => {
     console.log(`Server is running at http://localhost:${PORT}`);
