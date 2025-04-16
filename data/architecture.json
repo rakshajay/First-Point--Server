@@ -40,7 +40,7 @@
             "device": "UltraCortex EEG device",
             "coding-languages": "Python"
         },
-        "videoThumbnail": "thesis4.jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755823/Thesis4_nwwsfb.jpg",
         "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
         "Category":["Architecture","Technology","AI"],
         "Publications & Mentions":"",
@@ -50,39 +50,39 @@
         "id": "2",
         "title": "Zoya",
         "subTitle": "Retail design of Diamond Boutique",
-        "mainImage": "zoya (3).jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755826/zoya_3_yodo0c.jpg",
         "gallery": [
             {
                 "id": "2.1",
                 "description": "Facade design",
-                "image": "zoya (4).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755826/zoya_4_r4gors.jpg"
             },
             {
                 "id": "2.3",
                 "description": "Diamond jewellery display wall units",
-                "image": "zoya (6).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755827/zoya_6_en6wqp.jpg"
             },
             {
                 "id": "2.4",
                 "description": "Atrium with circular furniture design",
-                "image": "zoya (1).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755826/zoya_1_njew7e.jpg"
             },
             {
                 "id": "2.5",
                 "description": "Display podiums design",
-                "image": "zoya (3).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755827/zoya_7_akscxw.webp"
             },
             {
                 "id": "2.6",
                 "description": "Double height, Golden Rain Chandelier",
-                "image": "zoya (5).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755827/zoya_5_wxr6nw.jpg"
             }
         ],
         "date": "Dec-2019",
         "siteLocation": "Bengaluru, India",
         "siteArea": "3,000 sq ft",
         "workedWith": "Titan Corporates, IRSG team",
-        "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata.Using AutoCAD and Revit the design process incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
+        "description": "This project focuses on luxury retail design for Zoya, a high-end jewelry brand under Tata. Using AutoCAD and Revit the design process incorporates user-centric principles, with carefully crafted interior layouts that balance elegance and functionality. Traditional local artistry is integrated through handcrafted elements and intricate patterns, adding cultural depth to the space. Lighting, including chandeliers and LED accents, is used to create a refined, welcoming ambiance. The interiors of Zoya evoke luxury and sophistication, ensuring a personalized and immersive shopping experience for customers.",
         "softwares": {
             "concept": "Sketchup",
             "rendering": "-",
@@ -92,7 +92,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "zoya (7).jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755827/zoya_7_akscxw.webp",
         "video":"https://www.facebook.com/ZoyaJewels/videos/546032976082663/",
         "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
         "Publications & Mentions": "https://www.vogue.in/fashion/content/zoya-from-the-house-of-tata-launches-its-first-store-in-bengaluru",
@@ -102,57 +102,57 @@
         "id": "3",
         "title": "Augmented City",
         "subTitle": "Production Urbanism Daegu as Circular City, SCI-Arc project",
-        "mainImage": "Daegu (3).jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755810/Daegu_3_zx32sq.jpg",
         "gallery": [
             {
                 "id": "3.1",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (1).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755811/Daegu_1_yiogai.jpg"
             },
             {
                 "id": "3.3",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (1).png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755809/Daegu_1_nw4aip.jpg"
             },
             {
                 "id": "3.4",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (2).png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755811/Daegu_2_useb78.jpg"
             },
             {
                 "id": "3.5",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (3).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755810/Daegu_3_zx32sq.jpg"
             },
             {
                 "id": "3.6",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (4).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755811/Daegu_4_k1gzzf.jpg"
             },
             {
                 "id": "3.7",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (5).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755811/Daegu_5_sni6bn.jpg"
             },
             {
                 "id": "3.8",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (6).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755813/Daegu_6_svykca.jpg"
             },
             {
                 "id": "3.9",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (7).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755814/Daegu_7_pi7p2x.jpg"
             },
             {
                 "id": "3.10",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (8).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755813/Daegu_8_swdtlx.jpg"
             },
             {
                 "id": "3.11",
                 "description": "Daegu city, urban interventions to futuristic infrastructure",
-                "image": "Daegu (9).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755814/Daegu_9_dpz6dn.jpg"
             }
         ],
         "date": "Aug-2023",
@@ -169,7 +169,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "Daegu (10).jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755813/Daegu_10_ywul6z.jpg",
         "video":"-",
         "Category":["Architecture","Computational-design","AI", "Urban design"],
         "Publications & Mentions":"https://drive.google.com/file/d/1XU7wo2AmgvDPaRQ7pm8zkGG-knahuCJy/view",
@@ -179,42 +179,42 @@
         "id": "4",
         "title": "Tanishq",
         "subTitle": "Retial Design of TATA's jewellery botiques",
-        "mainImage": "Tanishq-4.jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Tanishq-4_i1epbv.jpg",
         "gallery": [
             {
                 "id": "4.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Tanishq-1.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Tanishq-1_jnuhfc.jpg"
             },
             {
                 "id": "4.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Tanishq-2.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Tanishq-2_hp7ie7.jpg"
             },
             {
                 "id": "4.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Tanishq-3.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Tanishq-3_wvdtsp.jpg"
             },
             {
                 "id": "4.4",
                 "description": "Device used to build application",
-                "image": "Tanishq-5.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755820/Tanishq-5_ygzpuh.jpg"
             },
             {
-                "id": "4.4",
+                "id": "4.5",
                 "description": "Device used to build application",
-                "image": "Tanishq-6.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755820/Tanishq-6_aazrm0.jpg"
             },
             {
-                "id": "4.4",
+                "id": "4.6",
                 "description": "Device used to build application",
-                "image": "Tanishq-8.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755820/Tanishq-8_zftwdz.jpg"
             },
             {
-                "id": "4.4",
+                "id": "4.7",
                 "description": "Device used to build application",
-                "image": "Tanishq-9.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755821/Tanishq-9_xpklds.jpg"
             }
      ],
         "date": "2019-2022",
@@ -231,7 +231,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "Tanishq-10.jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755820/Tanishq-10_e15wqq.jpg",
         "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
         "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
         "Publications & Mentions":"",
@@ -241,29 +241,29 @@
         "id": "5",
         "title": "Sri-Nam Residence",
         "subTitle": "Independent villa project",
-        "mainImage": "Srinam1.png",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Srinam1_m84frb.png",
         "gallery": [
             {
                 "id": "5.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Srinam2.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755821/Srinam2_hff0v4.png"
             },
             {
                 "id": "5.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Srinam3.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755821/Srinam3_tmqyu3.png"
             },
             {
                 "id": "5.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Srinam4.png"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Srinam4_fgfuu7.png"
             }
      ],
         "date": "2022-2024",
         "siteLocation": "-",
         "siteArea": "-",
         "workedWith": "Collab with Sooru studios",
-        "description":"Designed the retail spaces for Tanishq, India’s largest jewelry brand under TATA, focusing on creating customer-friendly environments that blend functionality and luxury. Traditional craftsmanship was integrated into the interiors, using locally sourced artwork to celebrate cultural heritage. Visual merchandising played a key role, with displays strategically positioned to highlight the jewelry collections and enhance brand identity. Handcrafted furniture and intricate detailing added to the sense of opulence, ensuring each showroom reflected Tanishq’s elegance and offered a sophisticated retail experience.",
+        "description":"Rooted in cultural sensibilities, the villa design uses a repetitive modular structure to create a calming sense of order and balance. The layout promotes fluid movement, encouraging the occupant to experience the space slowly and mindfully. Inspired by temple architecture and sacred pathways, the design creates a narrative of journey and pause — weaving together elements of privacy, openness, and reflection.",
         "softwares": {
             "concept": "Sketchup",
             "rendering": "Unreal engine",
@@ -273,7 +273,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "Tanishq-10.jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755819/Srinam4_fgfuu7.png",
         "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
         "Category":["Architecture"],
         "Publications & Mentions":"",
@@ -283,32 +283,32 @@
         "id": "6",
         "title": "AI-Revit",
         "subTitle": "Experimental project integration of AI and Revit",
-        "mainImage": "Revit4.jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Revit4_hsnljm.jpg",
         "gallery": [
             {
                 "id": "6.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Revit.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Revit_uiefwj.jpg"
             },
             {
                 "id": "6.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Revit2.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Revit2_gh7vou.jpg"
             },
             {
                 "id": "6.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Revit3.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Revit3_fbuk6d.jpg"
             },
             {
                 "id": "6.4",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Revit5.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Revit5_dxhzzn.jpg"
             },
             {
                 "id": "6.5",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Revit6.jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Revit6_frognt.jpg"
             }
      ],
         "date": "2022-2024",
@@ -325,7 +325,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "Tanishq-10.jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755818/Revit6_frognt.jpg",
         "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
         "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
         "Publications & Mentions":"",
@@ -335,42 +335,42 @@
         "id": "7",
         "title": "Mumbai Metro Line-6",
         "subTitle": "Infrastructure project",
-        "mainImage": "Metro (9).jpg",
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_9_tfap4o.jpg",
         "gallery": [
             {
                 "id": "7.1",
                 "description": "SCI-Arc EDGE Symposium, application live demo",
-                "image": "Metro (1).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755816/Metro_1_etaboz.jpg"
             },
             {
                 "id": "7.2",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (2).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755816/Metro_2_qk5hgn.jpg"
             },
             {
                 "id": "7.3",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (3).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_3_hgi4ek.jpg"
             },
             {
                 "id": "7.4",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (4).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_4_kf4hbv.jpg"
             },
             {
                 "id": "7.5",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (5).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_5_vlrhae.jpg"
             },
             {
                 "id": "7.6",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (6).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_6_xrbj5i.jpg"
             },
             {
                 "id": "7.7",
                 "description": "SCI-Arc EDGE Symposium, application demo and result",
-                "image": "Metro (7).jpg"
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_7_pn6gvd.jpg"
             }
      ],
         "date": "2017-2019",
@@ -387,7 +387,7 @@
             "device": "-",
             "coding-languages": "-"
         },
-        "videoThumbnail": "Tanishq-10.jpg",
+        "videoThumbnail": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744755817/Metro_7_pn6gvd.jpg",
         "video":"https://youtu.be/F4O8yxhLXC8?si=o-NhnUrt8BXydmZ4",
         "Category":["Architecture","Retail-design","Interior-design", "Brand-design"],
         "Publications & Mentions":"",
@@ -397,12 +397,28 @@
         "id": "8",
         "title": "ADDC",
         "subTitle": "Interior design for Abu Dhabi commerial project",
-        "mainImage": "ADDC.jpg",
-        "gallery": [],
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744765695/ADDC_HQ_AR1_ijpi3o.jpg",
+        "gallery": [
+            {
+                "id": "8.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744765695/ADDC_HQ_AR1_ijpi3o.jpg"
+            },
+            {
+                "id": "8.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744765694/ADDC_HQ_EA1_kk5iiz.jpg"
+            },
+            {
+                "id": "8.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744766026/ADDC_HQ_INTERIOR_A1_uhvk1y.jpg"
+            }
+        ],
         "date": "2018-2019",
         "siteLocation": "-",
         "siteArea": "-",
-        "workedWith": "SJ-SMEC, Station design team",
+        "workedWith": "SJ design team",
         "description":"Worked on the interior design for a commercial project in Abu Dhabi, Using Revit, rhino and lumion focused on creating a sophisticated and functional space that reflects the region's modern aesthetic while incorporating traditional elements. The design emphasized open floor plans, natural light, and premium materials such as marble and glass. Custom-made furniture and fixtures were integrated to enhance the space's elegance, while strategic lighting created a welcoming and professional atmosphere. The project balanced contemporary design with cultural influences, resulting in a dynamic environment that catered to both client and visitor needs.",
         "softwares": {
             "concept": "",
@@ -423,8 +439,59 @@
         "id": "9",
         "title": "Asetz",
         "subTitle": "Interior design for villa project",
-        "mainImage": "Coming-Soon.png",
-        "gallery": [],
+        "mainImage": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767582/Asetz_5_rcobxn.jpg",
+        "gallery": [
+            {
+                "id": "9.1",
+                "description": "SCI-Arc EDGE Symposium, application live demo",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767576/Asetz_1_hq8a9y.jpg"
+            },
+            {
+                "id": "9.2",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767581/Asetz_4_lsvcfo.jpg"
+            },
+            {
+                "id": "9.3",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767578/Asetz_2_slbqle.jpg"
+            },
+            {
+                "id": "9.4",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767591/Asetz_10_zbjgux.jpg"
+            },
+            {
+                "id": "9.5",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767575/Asetz_12_keyyln.jpg"
+            },
+            {
+                "id": "9.6",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767589/Asetz_9_pyptuu.jpg"
+            },
+            {
+                "id": "9.7",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767593/Asetz_11_ybjket.jpg"
+            },
+            {
+                "id": "9.8",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767586/Asetz_7_gedoxu.jpg"
+            },
+            {
+                "id": "9.9",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767588/Asetz_8_qw22jr.jpg"
+            },
+            {
+                "id": "9.10",
+                "description": "SCI-Arc EDGE Symposium, application demo and result",
+                "image": "https://res.cloudinary.com/dy1q2hcit/image/upload/v1744767585/Asetz_6_olohtx.jpg"
+            }
+     ],
         "date": "2022-2023",
         "siteLocation": "-",
         "siteArea": "-",
